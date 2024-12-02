@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tedim\\source\\repos\\MediAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F1ECD-1CFB-4A58-BF4E-76653FCAAEB6}|MediAppTests\\MediAppTests.csproj|c:\\users\\tedim\\source\\repos\\mediappsolution\\mediapptests\\medicinerepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1F1ECD-1CFB-4A58-BF4E-76653FCAAEB6}|MediAppTests\\MediAppTests.csproj|solutionrelative:mediapptests\\medicinerepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B6DE02-366F-4612-8F16-77B19379AE26}|MediApp\\MediApp.csproj|c:\\users\\tedim\\source\\repos\\mediappsolution\\mediapp\\repositories\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B6DE02-366F-4612-8F16-77B19379AE26}|MediApp\\MediApp.csproj|solutionrelative:mediapp\\repositories\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B6DE02-366F-4612-8F16-77B19379AE26}|MediApp\\MediApp.csproj|c:\\users\\tedim\\source\\repos\\mediappsolution\\mediapp\\viewmodels\\medicinerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B6DE02-366F-4612-8F16-77B19379AE26}|MediApp\\MediApp.csproj|solutionrelative:mediapp\\viewmodels\\medicinerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B6DE02-366F-4612-8F16-77B19379AE26}|MediApp\\MediApp.csproj|c:\\users\\tedim\\source\\repos\\mediappsolution\\mediapp\\medsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B6DE02-366F-4612-8F16-77B19379AE26}|MediApp\\MediApp.csproj|solutionrelative:mediapp\\medsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B6DE02-366F-4612-8F16-77B19379AE26}|MediApp\\MediApp.csproj|c:\\users\\tedim\\source\\repos\\mediappsolution\\mediapp\\entities\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B6DE02-366F-4612-8F16-77B19379AE26}|MediApp\\MediApp.csproj|solutionrelative:mediapp\\entities\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicineRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Tedim\\source\\repos\\MediAppSolution\\MediApp\\ViewModels\\MedicineRecord.cs",
+              "RelativeDocumentMoniker": "MediApp\\ViewModels\\MedicineRecord.cs",
+              "ToolTip": "C:\\Users\\Tedim\\source\\repos\\MediAppSolution\\MediApp\\ViewModels\\MedicineRecord.cs",
+              "RelativeToolTip": "MediApp\\ViewModels\\MedicineRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:58:02.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tedim\\source\\repos\\MediAppSolution\\MediApp\\Repositories\\MedicineRepository.cs",
+              "RelativeDocumentMoniker": "MediApp\\Repositories\\MedicineRepository.cs",
+              "ToolTip": "C:\\Users\\Tedim\\source\\repos\\MediAppSolution\\MediApp\\Repositories\\MedicineRepository.cs",
+              "RelativeToolTip": "MediApp\\Repositories\\MedicineRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:53:03.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tedim\\source\\repos\\MediAppSolution\\MediApp\\MedsDbContext.cs",
+              "RelativeDocumentMoniker": "MediApp\\MedsDbContext.cs",
+              "ToolTip": "C:\\Users\\Tedim\\source\\repos\\MediAppSolution\\MediApp\\MedsDbContext.cs",
+              "RelativeToolTip": "MediApp\\MedsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:43:30.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\Tedim\\source\\repos\\MediAppSolution\\MediApp\\Entities\\Medicine.cs",
+              "RelativeDocumentMoniker": "MediApp\\Entities\\Medicine.cs",
+              "ToolTip": "C:\\Users\\Tedim\\source\\repos\\MediAppSolution\\MediApp\\Entities\\Medicine.cs",
+              "RelativeToolTip": "MediApp\\Entities\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:42:53.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicineRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Tedim\\source\\repos\\MediAppSolution\\MediAppTests\\MedicineRepositoryTest.cs",
+              "RelativeDocumentMoniker": "MediAppTests\\MedicineRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\Tedim\\source\\repos\\MediAppSolution\\MediAppTests\\MedicineRepositoryTest.cs",
+              "RelativeToolTip": "MediAppTests\\MedicineRepositoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:26:19.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
